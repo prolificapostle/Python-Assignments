@@ -1,0 +1,9 @@
+LIST OF PRODUCTS
+ID:001  Wireless      NGN7,000
+ID:002  USB           NGN2,000
+ID:003  Bluetooth     NGN17,000
+ID:004  USB           NGN2,000
+ID:005  Laptop        NGN4,000
+ID:006  External      NGN32,000
+ID:007  32GB          NGN9,000
+ID:008  WebCam        NGN12,500

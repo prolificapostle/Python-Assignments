@@ -1,6 +1,6 @@
 def cohort16_register():
 
-    cohort16_database =  {"esther": 23, "rotimi": 45, "lateef": 34, "mariam": 20}
+    cohort16_database = {"esther": 23, "rotimi": 45, "lateef": 34, "mariam": 20}
     name_input = input("Enter your name please: \n")
     name_input_lower = name_input.lower()
     if name_input in cohort16_database:
@@ -17,9 +17,4 @@ def cohort16_register():
             print("Thank you for using our software")
 
 
-
 cohort16_register()
-
-
-
-
